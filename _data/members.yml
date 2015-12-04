@@ -1,6 +1,8 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Richard Smith-Unna
+  affiliation: Mozilla Science Lab & University of Cambridge
+  github: blahah
   interests:
     - Programming
     - Open Science
+    - Plant biology
+    - Genomics
